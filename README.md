@@ -1,5 +1,5 @@
 <div align="center">
- SLOTIVA AUTOPILOT ✂️🤖
+ <H1>SLOTIVA AUTOPILOT ✂️🤖</H1>
 </div>
 
 <br/>
