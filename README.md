@@ -1,4 +1,8 @@
+<div align="center">
 # SLOTIVA AUTOPILOT ✂️🤖
+</div>
+
+<br/>
 
 ### The Autonomous "Invisible Manager" for Tier-2 City Salons.
 
